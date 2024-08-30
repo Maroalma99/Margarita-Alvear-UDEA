@@ -1,0 +1,4 @@
+class Nodo:
+  def __init__(self, valor): #parametro
+    self.valor = valor # Ingresar valor de la LSL
+    self.siguiente = None # Valor nulo (aumentar o disminuir el tamaño de la LSL) .sig es liga
